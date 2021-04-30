@@ -1,3 +1,4 @@
+This is git master 
 adding of gitignore
 <<<<<<< HEAD
 here the line is upadating..........
